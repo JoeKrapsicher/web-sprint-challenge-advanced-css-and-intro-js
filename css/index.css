@@ -134,3 +134,20 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+
+/*Media Breakpoints*/
+
+@media (max-width: 600px)
+{
+    /* body
+    {
+        margin: auto;
+    }
+
+    section
+    {
+        display: flex;
+        flex-direction: column;
+    } */
+}
